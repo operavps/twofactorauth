@@ -681,3 +681,9 @@ websites:
       - totp
       - proprietary
     doc: https://wpengine.com/support/2-factor-authentication/
+    
+    - name: OperaVPS
+    url: https://operavps.com
+    img: operavps-logo3232.png
+    twitter: operavps
+    email_address: support@operavps.com
